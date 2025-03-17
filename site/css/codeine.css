@@ -1,0 +1,11 @@
+body{
+background-color: #945728 !important;
+}
+
+.mainmenu, .container{
+    background-color: #c9864b !important;
+    text-transform: lowercase;
+    }
+.jumbotron img{
+    display: flex;
+}
