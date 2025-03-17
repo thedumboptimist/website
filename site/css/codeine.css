@@ -1,11 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Capriola&display=swap');
+
+
 body{
 background-color: #945728 !important;
 }
 
-.mainmenu, .container{
+ .jumbotron, nav a, footer .container{
     background-color: #c9864b !important;
     text-transform: lowercase;
+    
     }
-.jumbotron img{
-    display: flex;
+
+nav a{
+    border-radius: .5rem .5rem 0rem 0rem;
+    padding: 0rem 1rem;
+    margin: 0rem .5rem;
+    
 }
+.jumbotron{
+    border-radius: .5rem .5rem 0rem 0rem;
+}
+.jumbotron, footer .container{
+    padding: 1rem;
+    margin: auto;
+}
+
+/* *{
+    text-shadow:
+    0 0 0px, 
+    0 0 0px,
+    0 0 0px, 
+    0 0 0px, 
+    0 0 0px, 
+    0 0 0px, 
+    0 0 0px;
+}*/ 
