@@ -1,12 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Capriola&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&display=swap');
 
 body{
-background-color: #945728 !important;
+/* background-color: #684f33!important; */
+background-image: linear-gradient(#16120d, #684f33)!important;
 }
 
  .jumbotron, nav a, footer .container{
-    background-color: #c9864b !important;
+    background-color: #9f8157 !important;
     text-transform: lowercase;
     
     }
@@ -24,6 +24,22 @@ nav a{
     padding: 1rem;
     margin: auto;
 }
+.secondary{
+    background-color: #c9b389!important;
+}
+.fillfix, body{
+    height: 100% !important;    
+}
+html {
+    height: 100%;
+}
+.foto{
+    background-color: #817d6b;
+}
+/* h2{
+    font-family: "Bruno Ace", sans-serif !important;
+    font-weight: 400 !important;
+}*/
 
 /* *{
     text-shadow:
