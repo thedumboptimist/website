@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&display=swap');
+
+body{
+/* background-color: #684f33!important; */
+background-image: linear-gradient(#16120d, #684f33)!important;
+}
+
+ .jumbotron, nav a, footer .container{
+    background-color: #9f8157 !important;
+    text-transform: lowercase;
+    
+    }
+
+nav a{
+    border-radius: .5rem .5rem 0rem 0rem;
+    padding: 0rem 1rem;
+    margin: 0rem .5rem;
+    
+}
+.jumbotron{
+    border-radius: .5rem .5rem 0rem 0rem;
+}
+.jumbotron, footer .container{
+    padding: 1rem;
+    margin: auto;
+}
+.secondary{
+    background-color: #c9b389!important;
+}
+.fillfix, body{
+    height: 100% !important;    
+}
+html {
+    height: 100%;
+}
+.foto{
+    background-color: #817d6b;
+}
+/* h2{
+    font-family: "Bruno Ace", sans-serif !important;
+    font-weight: 400 !important;
+}*/
+
+/* *{
+    text-shadow:
+    0 0 0px, 
+    0 0 0px,
+    0 0 0px, 
+    0 0 0px, 
+    0 0 0px, 
+    0 0 0px, 
+    0 0 0px;
+}*/ 

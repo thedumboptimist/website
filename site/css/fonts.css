@@ -1,0 +1,52 @@
+@font-face{
+    font-family: "7_12_serif";
+    font-style: normal;
+    font-weight: normal;
+    src:url(/website/site/woff/7-12-serif/7-12-serif-unicode.woff)
+}
+
+@font-face{
+    font-family: "7_12_serif";
+    font-style: italic;
+    font-weight: normal;
+    src:url(/website/site/woff/7-12-serif/7-12-serif-italic.woff)
+}
+@font-face{
+    font-family: "7_12_serif";
+    font-style: italic;
+    font-weight: bold;
+    src:url(/website/site/woff/7-12-serif/7-12-serif-bold-italic.woff)
+}
+.font_7_12_serif{
+    font-family: "7_12_serif";
+    font-size: 32px;
+    font-smooth: never;
+    -webkit-font-smoothing: none;
+}
+
+p.font_7_12_serif{
+    font-family: "7_12_serif";
+    font-size: 20px;
+    font-smooth: never;
+    -webkit-font-smoothing: none;
+}
+
+@font-face {
+    font-family: "pixel_georgia";
+    font-style: normal;
+    font-weight: normal;
+    src: url(/website/site/woff/pixel_georgia/pixel_georgia.woff);
+}
+@font-face {
+    font-family: "pixel_georgia";
+    font-style: normal;
+    font-weight: bold;
+    src: url(/website/site/woff/pixel_georgia/pixel_georgia_bold.woff);
+}
+.pixel_georgia{
+    font-family: "pixel_georgia";
+    font-size: 16px;
+    font-smooth: never;
+    -webkit-font-smoothing: none;
+}
+

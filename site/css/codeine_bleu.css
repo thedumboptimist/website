@@ -2,10 +2,10 @@
 @import url(fonts.css);
 :root{
     --main-bg-color: #5a4829;
-    --light-fg-color: #9f8157;
+    --light-fg-color: #548ce4;
     --color-tert-d: #413418;
-    --color-tert-l: #7b5020;
-    --color-sec: #c5ae8b;
+    --color-tert-l: #2f459e;
+    --color-sec:  #94b0de;
     --color-q: #e6d2ac;
 }
 body{
@@ -22,13 +22,6 @@ body{
    width: 12.5%; */
    background-color: var(--light-fg-color);
    margin: 0 0 0 1rem
-}
-.sidebar_r{
-   /* position: fixed;
-   left:0;
-   width: 12.5%; */
-   background-color: var(--light-fg-color);
-   margin: 0 1rem 0 0
 }
 .heading{
     margin:0
@@ -85,7 +78,7 @@ background-color: #16120d;
 }
 
 .color_q{
-    background-color: var();
+    background-color: var(--color-q);
 }
 
 a.hoveredit:hover{
