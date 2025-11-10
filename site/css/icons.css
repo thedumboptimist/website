@@ -1,0 +1,147 @@
+.bitview::before{
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/kust/bitview.png");
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+  position: relative;
+  top:+2px
+}
+.flirb::before{
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/kust/flirb.png");
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+  position: relative;
+  top:+2px
+}
+.hjonk::before{
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/kust/hjonk.png");
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+  position: relative;
+  top:+2px
+}
+.pikidiary::before{
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/kust/pikidiary.png");
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+  position: relative;
+  top:+2px
+}
+.spacehey::before{
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/kust/spacehey.png");
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+  position: relative;
+  top:+2px
+}
+.bluesky::before{
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/kust/bluesky-2.png");
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+  position: relative;
+  top:+2px
+}
+.flickr::before{
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/flickr.png");
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+  position: relative;
+  top:+2px
+}
+.insta::before{
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/instagram.png");
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+  position: relative;
+  top:+2px
+}
+.lastfm::before{
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/lastfm.png");
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+  position: relative;
+  top:+2px
+}
+.reddit::before{
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/reddit.png");
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+  position: relative;
+  top:+2px
+}
+.tiktok::before{
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/kust/tiktok.png");
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+  position: relative;
+  top:+2px
+}
+.tumblr::before{
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/tumblr.png");
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+  position: relative;
+  top:+2px
+}
+.twatter::before{
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/twitter.png");
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+  position: relative;
+  top:+2px
+}
+.youtube::before{
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/youtube.png");
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+  position: relative;
+  top:+2px
+}
+
+.icondock::before{
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/icondock.png");
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+  position: relative;
+  top:+2px
+}
+
+.github::before{
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/github.png");
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+  position: relative;
+  top:+2px
+}
+

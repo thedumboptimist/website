@@ -19,7 +19,7 @@ div.jumbotron div.jumbotron-left{
 
 div.jumbotron div.sidebar{
     background-color: lightgreen;
-    
+    padding-left: 24px;
     width: 25%;
     overflow-y: scroll;
 }
@@ -31,4 +31,28 @@ body{
 div.jumbotron div.jumbotron-left h1{
     font-size: 64px;
     margin: 16px
+}
+
+footer div.footer{
+     background-color: seagreen;
+    margin: auto;
+    margin-top: 15px !important;
+    display: flex;
+    width: 75%;
+}
+
+ul.nobullets
+{
+    list-style-type: none;
+}
+
+.medtext{
+    font-size: 20px;
+}
+.decreasemarginforthisonethingy{
+    margin-top: -24px
+}
+ul.nobullets li
+{
+    margin-left: -24px
 }
