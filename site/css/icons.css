@@ -1,5 +1,5 @@
 .bitview::before{
-     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/kust/bitview.png");
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/ext/icons/kust/bitview.png");
   display: inline-block;
   width: 16px;
   height: 16px;
@@ -8,7 +8,7 @@
   top:+2px
 }
 .flirb::before{
-     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/kust/flirb.png");
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/ext/icons/kust/flirb.png");
   display: inline-block;
   width: 16px;
   height: 16px;
@@ -17,7 +17,7 @@
   top:+2px
 }
 .hjonk::before{
-     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/kust/hjonk.png");
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/ext/icons/kust/hjonk.png");
   display: inline-block;
   width: 16px;
   height: 16px;
@@ -26,7 +26,7 @@
   top:+2px
 }
 .pikidiary::before{
-     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/kust/pikidiary.png");
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/ext/icons/kust/pikidiary.png");
   display: inline-block;
   width: 16px;
   height: 16px;
@@ -35,7 +35,7 @@
   top:+2px
 }
 .spacehey::before{
-     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/kust/spacehey.png");
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/ext/icons/kust/spacehey.png");
   display: inline-block;
   width: 16px;
   height: 16px;
@@ -44,7 +44,7 @@
   top:+2px
 }
 .bluesky::before{
-     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/kust/bluesky-2.png");
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/ext/icons/kust/bluesky-2.png");
   display: inline-block;
   width: 16px;
   height: 16px;
@@ -53,7 +53,7 @@
   top:+2px
 }
 .flickr::before{
-     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/flickr.png");
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/ext/icons/flickr.png");
   display: inline-block;
   width: 16px;
   height: 16px;
@@ -62,7 +62,7 @@
   top:+2px
 }
 .insta::before{
-     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/instagram.png");
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/ext/icons/instagram.png");
   display: inline-block;
   width: 16px;
   height: 16px;
@@ -71,7 +71,7 @@
   top:+2px
 }
 .lastfm::before{
-     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/lastfm.png");
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/ext/icons/lastfm.png");
   display: inline-block;
   width: 16px;
   height: 16px;
@@ -80,7 +80,7 @@
   top:+2px
 }
 .reddit::before{
-     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/reddit.png");
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/ext/icons/reddit.png");
   display: inline-block;
   width: 16px;
   height: 16px;
@@ -89,7 +89,7 @@
   top:+2px
 }
 .tiktok::before{
-     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/kust/tiktok.png");
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/ext/icons/kust/tiktok.png");
   display: inline-block;
   width: 16px;
   height: 16px;
@@ -98,7 +98,7 @@
   top:+2px
 }
 .tumblr::before{
-     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/tumblr.png");
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/ext/icons/tumblr.png");
   display: inline-block;
   width: 16px;
   height: 16px;
@@ -107,7 +107,7 @@
   top:+2px
 }
 .twatter::before{
-     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/twitter.png");
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/ext/icons/twitter.png");
   display: inline-block;
   width: 16px;
   height: 16px;
@@ -116,7 +116,7 @@
   top:+2px
 }
 .youtube::before{
-     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/youtube.png");
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/ext/icons/youtube.png");
   display: inline-block;
   width: 16px;
   height: 16px;
@@ -126,7 +126,7 @@
 }
 
 .icondock::before{
-     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/icondock.png");
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/ext/icons/icondock.png");
   display: inline-block;
   width: 16px;
   height: 16px;
@@ -136,7 +136,7 @@
 }
 
 .github::before{
-     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/exticons/github.png");
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/ext/icons/github.png");
   display: inline-block;
   width: 16px;
   height: 16px;
