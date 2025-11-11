@@ -124,6 +124,16 @@
   position: relative;
   top:+2px
 }
+.youtube-2::before{
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/ext/icons/kust/youtube-2.png");
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+  position: relative;
+  top:+2px
+}
+
 
 .icondock::before{
      content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/ext/icons/icondock.png");
