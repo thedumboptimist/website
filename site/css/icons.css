@@ -7,6 +7,15 @@
   position: relative;
   top:+2px
 }
+.dreamwidth::before{
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/ext/icons/kust/dreamwidth.png");
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+  position: relative;
+  top:+2px
+}
 .flirb::before{
      content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/ext/icons/kust/flirb.png");
   display: inline-block;
