@@ -145,3 +145,12 @@
   top:+2px
 }
 
+.openvk::before{
+     content: url("\\stuff/ext/icons/kust/openvk.png");
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+  position: relative;
+  top:+2px
+}
