@@ -9,8 +9,7 @@ div.jumbotron{
     background-color: seagreen;
     margin: auto;
     display: flex;
-    width: 75%;
- 
+
    
 }
 div.jumbotron div.jumbotron-left{
@@ -26,6 +25,7 @@ div.jumbotron div.sidebar{
 
 body{
     background-color: var(--main-bg-color);
+    margin: 0 24px
 }
 
 div.jumbotron div.jumbotron-left h1{
@@ -36,9 +36,15 @@ div.jumbotron div.jumbotron-left h1{
 footer div.footer{
      background-color: seagreen;
     margin: auto;
-    margin-top: 15px !important;
+    margin-top: 16px !important;
     display: flex;
-    width: 75%;
+}
+
+nav.outer{
+     background-color: seagreen;
+    margin: auto;
+    margin-bottom: 16px !important;
+    display: flex;
 }
 
 ul.nobullets
@@ -55,4 +61,33 @@ ul.nobullets
 ul.nobullets li
 {
     margin-left: -24px
+}
+
+.col{
+    display: flex;
+}
+
+
+div.sidebar{
+    background-color: white;
+}
+.grow1{
+flex-grow: 2;
+}
+
+.grow2{
+flex-grow: 3;
+}
+
+.content{
+    margin: 0 24px;
+}
+
+.side{
+    position: relative;
+    top: 24px;
+}
+
+.chunk{
+margin: 16px 0 
 }
