@@ -71,23 +71,42 @@ ul.nobullets li
 div.sidebar{
     background-color: white;
 }
-.grow1{
+.grow2{
 flex-grow: 2;
 }
 
-.grow2{
+.grow3{
 flex-grow: 3;
 }
 
-.content{
+.main-content{
     margin: 0 24px;
 }
 
-.side{
+.scan-col{
     position: relative;
     top: 24px;
 }
 
-.chunk{
-margin: 16px 0 
+.section-margin{
+margin: 16px 0 ;
+}
+
+.col-margin{
+margin: 0 16px;
+}
+.seagreen{
+    background-color: seagreen;
+}
+
+.col-weird-left{
+margin: 0 0 0 16px;
+}
+.header-weird{
+        margin: 16px;
+}
+
+.flex-wrap{
+     flex-wrap: wrap;
+     display: flex;
 }
