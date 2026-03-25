@@ -1,3 +1,49 @@
+@import url(https://db.onlinewebfonts.com/c/aae462773966100890bdfe4a8188cc0a?family=Marker+Felt);
+@import url(https://fonts.bunny.net/css?family=roboto:700);
+
+/* an attempt to make a fake notes app with css */
+
+div.notes{
+    height: 480px;
+    width: 320px;
+}
+div.notes nav{
+    background-image: url("/site/notes/img/top bar.png");
+    height: 44px;
+    width: 320px;
+    align-content: center;
+}
+div.notes nav h2{
+    font-family: Roboto;
+text-align: center;
+color: white;
+text-shadow:0 -1px black ;
+position: relative;
+transform: translateY(-40%);
+}
+div.notes div.body{
+    background-image: url("/site/notes/img/bodyMarginThin.png");
+    height: 416px;
+    width: 320px;
+}
+
+div.notes div.body hr{
+  border-color:gray;  
+}
+
+div.notes div.body p{
+margin-left: 24px;
+margin-top: 0;
+padding-bottom: 18px;
+margin-block: 0 0;
+font-family: "Marker Felt";
+    position: relative;
+    top: 22px;
+    font-size:24px
+}
+
+
+/**/
 :root {
   --main-bg-color: darkseagreen;
 }
@@ -110,3 +156,4 @@ margin: 0 0 0 16px;
      flex-wrap: wrap;
      display: flex;
 }
+

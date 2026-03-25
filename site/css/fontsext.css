@@ -1,4 +1,5 @@
-@import url(https://fonts.bunny.net/css?family=akaya-kanadaka:400|annie-use-your-telescope:400);
+@import url(https://fonts.bunny.net/css?family=akaya-kanadaka:400|annie-use-your-telescope:400|comic-neue:300,300i,400,400i,700,700i);
+@import url(https://db.onlinewebfonts.com/c/80453d444682919a50c09e84071049f3?family=HVD+Comic+Serif+Bold);
 
 
 .f1{
@@ -6,6 +7,15 @@ font-family: 'Akaya Kanadaka', display;
 }
 .f2{
   font-family: 'Annie Use Your Telescope', handwriting;
+}
+.f3{
+ font-family: 'Comic Neue', handwriting;
+}
+.f4{
+ font-family: 'Comic Sans MS', handwriting;
+}
+.f5{
+ font-family: 'HVD Comic Serif Bold', handwriting;
 }
 .white{
   color: white

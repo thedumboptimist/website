@@ -183,3 +183,23 @@
   position: relative;
   top:+2px
 }
+
+.social-email::before{
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/ext/icons/social-email.png");
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+  position: relative;
+  top:+2px
+}
+
+.bliish::before{
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/ext/icons/bliish.png");
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+  position: relative;
+  top:+2px
+}
