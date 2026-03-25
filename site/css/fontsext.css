@@ -1,6 +1,6 @@
 @import url(https://fonts.bunny.net/css?family=akaya-kanadaka:400|annie-use-your-telescope:400|comic-neue:300,300i,400,400i,700,700i);
 @import url(https://db.onlinewebfonts.com/c/80453d444682919a50c09e84071049f3?family=HVD+Comic+Serif+Bold);
-
+@import url(https://github.com/MarcSabatella/Campania/raw/refs/heads/master/Campania.woff);
 
 .f1{
 font-family: 'Akaya Kanadaka', display;
@@ -16,6 +16,10 @@ font-family: 'Akaya Kanadaka', display;
 }
 .f5{
  font-family: 'HVD Comic Serif Bold', handwriting;
+}
+
+.f7{
+  font-family: "Campania";
 }
 .white{
   color: white

@@ -49,4 +49,14 @@ p.font_7_12_serif{
     font-smooth: never;
     -webkit-font-smoothing: none;
 }
+
+@font-face{
+    font-family: "Hamori JP";
+    src:url(https://thedumboptimist.neocities.org/otf/HamoriJP-Regular.otf)
+}
+
+.f6{
+   font-family: "Hamori JP";
+}
+
 /* /website/site/woff => https://thedumboptimist.neocities.org/woff */
