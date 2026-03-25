@@ -8,7 +8,7 @@ div.notes{
     width: 320px;
 }
 div.notes nav{
-    background-image: url("/site/notes/img/top bar.png");
+    background-image: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/notes/img/top%20bar.png");
     height: 44px;
     width: 320px;
     align-content: center;
@@ -22,7 +22,7 @@ position: relative;
 transform: translateY(-40%);
 }
 div.notes div.body{
-    background-image: url("/site/notes/img/bodyMarginThin.png");
+    background-image: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/notes/img/bodyMarginThin.png");
     height: 416px;
     width: 320px;
 }
