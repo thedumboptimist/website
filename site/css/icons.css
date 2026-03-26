@@ -207,6 +207,12 @@
   top:+2px
 }
 
-.nigeria{
-  content: url();
+.discord:before{
+     content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/ext/icons/kust/discord.png");
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+  position: relative;
+  top:+2px
 }
