@@ -1,3 +1,6 @@
+@import url(/site/silk/famfamfam-flags.css);
+@import url(/site/silk/famfamfam-silk.css);
+@import url(/site/silk/silk-companion.min.css);
 .bitview::before{
      content: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/stuff/ext/icons/kust/bitview.png");
   display: inline-block;
@@ -202,4 +205,8 @@
   margin-right: 5px;
   position: relative;
   top:+2px
+}
+
+.nigeria{
+  content: url();
 }

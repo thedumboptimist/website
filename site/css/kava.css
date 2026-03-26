@@ -1,5 +1,5 @@
 @import url(https://db.onlinewebfonts.com/c/aae462773966100890bdfe4a8188cc0a?family=Marker+Felt);
-@import url(https://fonts.bunny.net/css?family=roboto:700);
+@import url(https://fonts.bunny.net/css?family=roboto:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900);
 
 /* an attempt to make a fake notes app with css */
 
@@ -19,7 +19,8 @@ text-align: center;
 color: white;
 text-shadow:0 -1px black ;
 position: relative;
-transform: translateY(-40%);
+font-weight: 700;
+transform: translateY(-60%);
 }
 div.notes div.body{
     background-image: url("https://raw.githubusercontent.com/thedumboptimist/website/refs/heads/main/notes/img/bodyMarginThin.png");
@@ -30,9 +31,18 @@ div.notes div.body{
 div.notes div.body hr{
   border-color:gray;  
 }
-
+div.notes div.body div.col p:nth-child(3){
+  text-align: right; 
+}
+div.notes div.body div.col p:first-child{
+  font-weight: 700; 
+}
+div.notes div.body div.col p:not(:first-child){
+  font-weight: 400;
+  font-size: 22px;
+}
 div.notes div.body p{
-margin-left: 24px;
+margin-left: 32px;
 margin-top: 0;
 padding-bottom: 18px;
 margin-block: 0 0;
@@ -41,7 +51,10 @@ font-family: "Marker Felt";
     top: 22px;
     font-size:24px
 }
-
+.date{
+    font-family: Roboto !important;
+    color: #792717;
+}
 
 /**/
 :root {
@@ -64,6 +77,7 @@ div.jumbotron div.jumbotron-left{
 
 div.jumbotron div.sidebar{
     background-color: lightgreen;
+    /* /*  background: linear-gradient(180deg,rgba(144, 238, 144, 1) 0%, rgba(184, 242, 184, 1) 25%, rgba(101, 194, 101, 1) 100%); */
     padding-left: 24px;
     width: 25%;
     overflow-y: scroll;
@@ -147,6 +161,9 @@ margin: 0 16px;
 
 .col-weird-left{
 margin: 0 0 0 16px;
+}
+.col-weird-right{
+margin: 0 16px 0 0;
 }
 .header-weird{
         margin: 16px;

@@ -11,7 +11,7 @@ font-family: 'Akaya Kanadaka', display;
 .f3{
  font-family: 'Comic Neue', handwriting;
 }
-.f4{
+.comic-sans{
  font-family: 'Comic Sans MS', handwriting;
 }
 .f5{
@@ -23,4 +23,7 @@ font-family: 'Akaya Kanadaka', display;
 }
 .white{
   color: white
+}
+.two-em{
+  font-size: 2em;
 }
